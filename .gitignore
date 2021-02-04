@@ -4,4 +4,6 @@ codegen/mktables
 *.o
 fuse_tests/*.actual
 fuse_tests/*.expected
+bin
+
 
